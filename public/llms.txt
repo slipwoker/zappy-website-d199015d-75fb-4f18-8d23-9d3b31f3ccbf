@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://example.com
+https://habossem.zappy5.app
 התפנקי בניחוחות בלתי נשכחים מבית הבשם. קולקציית בשמים יוקרתיים לנשים שמשדרגת כל רגע. כנסי עכשיו ומצאי את הבושם שיהפוך לחותם האישי שלך.
 
 ### הדרכת ניחוחות
-https://example.com/scent-guidance
+https://habossem.zappy5.app/scent-guidance
 צללו לעולם הריחות וגלו איך לבחור בושם שמדבר אתכם. מדריך ניחוחות אישי מבית הבשם שיעזור לכם למצוא בשמים נדירים לאספנים או מתנה יוקרתית. התחילו את המסע עכשיו.
 
 ### אודות
-https://example.com/about
+https://habossem.zappy5.app/about
 בואו להכיר את הסיפור של הבשם, בית לבשמים יוקרתיים לנשים וגברים. תשוקה לניחוחות, איכות ללא פשרות וחיפוש מתמיד אחר בושם מיוחד במינו. הצטרפו למסע שלנו.
 
 ### גלריה
-https://example.com/gallery
+https://habossem.zappy5.app/gallery
 גלריה שובת עין של בשמים יוקרתיים לנשים, מתנות בושם יוקרתי לגבר ובשמים נדירים לאספנים. כל תמונה היא הזמנה לחוות יוקרה. היכנסו להתאהב.
 
 ### צור קשר
-https://example.com/contact
+https://habossem.zappy5.app/contact
 רוצים למצוא מתנת בושם יוקרתי לגבר או לגלות בשמים יוקרתיים לנשים? צרו קשר עם הבשם ואנחנו נעזור לכם לבחור את הניחוח המושלם. פנו אלינו עוד היום.
 
 ### Products
-https://example.com/products
+https://habossem.zappy5.app/products
 המוצרים שלנו - הבשם
 
 ### Cart
-https://example.com/cart
+https://habossem.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://habossem.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://habossem.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://habossem.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://habossem.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://habossem.zappy5.app/product/:slug
 פרטי המוצר - הבשם
 
 ### Category
-https://example.com/category/:slug
+https://habossem.zappy5.app/category/:slug
 מוצרים - הבשם
 
 ### תודה - הבשם
-https://example.com/thank-you
+https://habossem.zappy5.app/thank-you
 הבשם - תודה - הבשם
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://habossem.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://habossem.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://habossem.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Perfumery & Fragrance
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://habossem.zappy5.app/sitemap.xml
+- Robots: https://habossem.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://habossem.zappy5.app/llms-full.txt
+- Products (JSON): https://habossem.zappy5.app/products.json
+- Products (Google Merchant RSS): https://habossem.zappy5.app/product-feed.xml
