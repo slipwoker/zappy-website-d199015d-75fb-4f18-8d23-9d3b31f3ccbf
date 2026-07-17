@@ -1,0 +1,108 @@
+# הבשם — Generative Engine Optimization Map
+
+> A perfume business focused on selling fragrances. The brand identity, personality, and unique offerings are yet to be defined.
+
+---
+
+## Pages
+
+### בית
+https://-d199015d.zappy5.app
+התפנקי בניחוחות בלתי נשכחים מבית הבשם. קולקציית בשמים יוקרתיים לנשים שמשדרגת כל רגע. כנסי עכשיו ומצאי את הבושם שיהפוך לחותם האישי שלך.
+
+### הדרכת ניחוחות
+https://-d199015d.zappy5.app/scent-guidance
+צללו לעולם הריחות וגלו איך לבחור בושם שמדבר אתכם. מדריך ניחוחות אישי מבית הבשם שיעזור לכם למצוא בשמים נדירים לאספנים או מתנה יוקרתית. התחילו את המסע עכשיו.
+
+### אודות
+https://-d199015d.zappy5.app/about
+בואו להכיר את הסיפור של הבשם, בית לבשמים יוקרתיים לנשים וגברים. תשוקה לניחוחות, איכות ללא פשרות וחיפוש מתמיד אחר בושם מיוחד במינו. הצטרפו למסע שלנו.
+
+### גלריה
+https://-d199015d.zappy5.app/gallery
+גלריה שובת עין של בשמים יוקרתיים לנשים, מתנות בושם יוקרתי לגבר ובשמים נדירים לאספנים. כל תמונה היא הזמנה לחוות יוקרה. היכנסו להתאהב.
+
+### צור קשר
+https://-d199015d.zappy5.app/contact
+רוצים למצוא מתנת בושם יוקרתי לגבר או לגלות בשמים יוקרתיים לנשים? צרו קשר עם הבשם ואנחנו נעזור לכם לבחור את הניחוח המושלם. פנו אלינו עוד היום.
+
+### Products
+https://-d199015d.zappy5.app/products
+המוצרים שלנו - הבשם
+
+### Cart
+https://-d199015d.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-d199015d.zappy5.app/checkout
+תשלום
+
+### Login
+https://-d199015d.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-d199015d.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-d199015d.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-d199015d.zappy5.app/product/:slug
+פרטי המוצר - הבשם
+
+### Category
+https://-d199015d.zappy5.app/category/:slug
+מוצרים - הבשם
+
+### תודה - הבשם
+https://-d199015d.zappy5.app/thank-you
+הבשם - תודה - הבשם
+
+## Legal & Policy
+
+### Privacy Policy
+https://-d199015d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-d199015d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-d199015d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הבשם
+A perfume business focused on selling fragrances. The brand identity, personality, and unique offerings are yet to be defined.
+
+## Target Audience
+- אספני בשמים יוקרתיים
+- מחפשי מתנות
+- חובבי ריחות ובשמים
+
+## Industry
+Perfumery & Fragrance
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-d199015d.zappy5.app/sitemap.xml
+- Robots: https://-d199015d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-d199015d.zappy5.app/llms-full.txt
+- Products (JSON): https://-d199015d.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-d199015d.zappy5.app/product-feed.xml
